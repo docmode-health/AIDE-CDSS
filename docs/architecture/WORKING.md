@@ -1,6 +1,6 @@
 ## How does AIDE-CDSS work?
 
-Curious about how AIDE-CDSS works? Don't worry, we'll cover it here. Before we begin, make sure you've read about the architecture of AIDE-CDSS to ensure you understand what it's made up of. Haven't read it? You can read it [here](https://github.com/ItzCrazyKns/AIDE-CDSS/tree/master/docs/architecture/README.md).
+Curious about how AIDE-CDSS works? Don't worry, we'll cover it here. Before we begin, make sure you've read about the architecture of AIDE-CDSS to ensure you understand what it's made up of. Haven't read it? You can read it [here](https://github.com/docmode-health/AIDE-CDSS/tree/master/docs/architecture/README.md).
 
 We'll understand how AIDE-CDSS works by taking an example of a scenario where a user asks: "How does an A.C. work?". We'll break down the process into steps to make it easier to understand. The steps are as follows:
 
